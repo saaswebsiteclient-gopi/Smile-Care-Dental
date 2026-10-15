@@ -1,0 +1,6 @@
+{
+  "name": "Smile Care Dental Clinic - Free Dental Checkup",
+  "description": "Book your complimentary dental checkup at Smile Care Dental Clinic. Comprehensive examination, oral health assessment, and dentist consultation in a modern, welcoming environment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
